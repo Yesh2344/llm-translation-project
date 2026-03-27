@@ -25,3 +25,6 @@ Last updated: v8.0.0
 
 ---
 Last updated: v6.3.3
+
+## Changelog
+- v4.3.4: Performance improvements
