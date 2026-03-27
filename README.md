@@ -20,3 +20,5 @@ This project aims to enhance low-resource machine translation using Large Langua
 ## Usage
 
 (To be updated as the project progresses)
+---
+Last updated: v8.0.0
